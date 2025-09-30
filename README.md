@@ -1,6 +1,6 @@
 # NTU Psychiatry Research Posters
 
-This repository showcases two academic posters produced during my internship at the **Dept. of Psychiatry & Taoyuan Psychiatric Center** (Jul–Sep 2020).  
+This repository showcases two academic posters produced at the **Dept. of Psychiatry & Taoyuan Psychiatric Center** (Jul–Sep 2020).  
 They reflect research on public awareness of psychiatry and shared decision-making for inpatients' sleep medication usage.
 
 
