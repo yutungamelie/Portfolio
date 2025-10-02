@@ -1,6 +1,17 @@
-# 
+# Portfolio
 
-This repository showcases 
+This repository showcases a selection of my academic, technical, and cross-disciplinary projects.  
+It reflects my background in **data science, statistics, and applied research**, as well as my interest in **technology-driven communication**.
+
+Highlighted works include:
+
+- **Boba Buddy** – Data pipelines and product development for a bubble tea discovery app in Taiwan.  
+- **HongKongerX2** – Social media analytics and strategy for a cross-regional collective promoting Cantonese language and culture.  
+- **NTU Hospital Research Posters** – Statistical analyses and academic outputs from psychiatry and clinical studies.  
+- **Master’s Thesis (NTU, M.S. in Statistics)** – Multimodal data science modeling for predicting cognition scores in chronic disease patients.  
+
+This portfolio integrates my skills in **coding (Python/R), mathematical modeling, and data storytelling**, applied across industry, media, and academia.
+
 
 
 ## Boba Buddy
@@ -24,7 +35,10 @@ Sleeping Pills for Hospitalized Mental Patients in National Taiwan Hospital](pos
   精神科住院病人「非常規安眠藥物使用之醫病共享決策」成效評估
 
 
-## Master Thesis: Physiological Predictors of Cognitive Functions in Patients with Chronic Diseases
+## Physiological Predictors of Cognitive Functions in Patients with Chronic Diseases
+
+Master’s Thesis completed during my M.S. studies in Statistics at National Taiwan University.  
+A multimodal data science modeling project for predicting cognition scores.   
 
 - **[Abstract](Abstract.pdf)**
   
