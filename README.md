@@ -24,7 +24,7 @@ Sleeping Pills for Hospitalized Mental Patients in National Taiwan Hospital](pos
   精神科住院病人「非常規安眠藥物使用之醫病共享決策」成效評估
 
 
-## Thesis: Physiological Predictors of Cognitive Functions in Patients with Chronic Diseases
+## Master Thesis: Physiological Predictors of Cognitive Functions in Patients with Chronic Diseases
 
 - **[Abstract]**
   
