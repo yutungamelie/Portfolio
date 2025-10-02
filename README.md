@@ -1,10 +1,12 @@
-# NTU Psychiatry Research Posters
+# 
 
-This repository showcases two academic posters produced at the **Dept. of Psychiatry & Taoyuan Psychiatric Center** (Jul–Sep 2020).  
+This repository showcases 
 They reflect research on public awareness of psychiatry and shared decision-making for inpatients' sleep medication usage.
 
 
-## Posters
+## NTU Psychiatry Research Posters
+Two academic posters produced at the **Dept. of Psychiatry & Taoyuan Psychiatric Center** (Jul–Sep 2020). 
+
 - **[Poster 1: The public's perception of psychiatry and mental illness](poster1_public_awareness.pdf)**  
   民眾對精神科之認知與精神疾病之感受
 
