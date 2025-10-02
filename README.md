@@ -16,7 +16,7 @@ This portfolio integrates my skills in **coding (Python/R), mathematical modelin
 
 ## Boba Buddy
 Boba Buddy is an app for bubble tea lovers to discover awesome drinks in Taiwan. <br>
-Your powerful buddy help you discover nearby drink shops, browse full menus, read authentic reviews, and order online with ease. <br>
+Your powerful buddy helps you discover nearby drink shops, browse full menus, read authentic reviews, and order online with ease. <br>
 - Download the app via official site **[Boba Buddy](https://boba-buddy-bliss-page.lovable.app/)**
 
 ## Physiological Predictors of Cognitive Functions in Patients with Chronic Diseases
