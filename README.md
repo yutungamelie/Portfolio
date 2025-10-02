@@ -3,8 +3,8 @@
 This repository showcases 
 
 ## HongKongerX2 兩隻香港人
-A cross-regional collective (Hong Kong · Macao · Taiwan) dedicated to promoting Cantonese language and culture in a fun, accessible way.
-We produce content across social media and digital platforms: 
+A cross-regional collective (Hong Kong · Macao · Taiwan) dedicated to promoting Cantonese language and culture in a fun, accessible way. <br>
+We produce content across social media and digital platforms: <br>
 🔗 [Explore our work via Linktree](https://linktr.ee/hongkongerx2?utm_source=linktree_profile_share&ltsid=0c759943-f625-4079-a584-c2f9687ec61c)  
 
 ## NTU Psychiatry Research Posters
