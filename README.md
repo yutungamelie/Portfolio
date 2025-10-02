@@ -1,7 +1,7 @@
 # 
 
 This repository showcases 
-They reflect research on public awareness of psychiatry and shared decision-making for inpatients' sleep medication usage.
+
 
 
 ## NTU Psychiatry Research Posters
